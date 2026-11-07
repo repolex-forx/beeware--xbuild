@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/beeware/xbuild/commit/e4b51709bdda1f8fdcfa73db56007d206b52891f",
       "git:hexsha": "e4b51709bdda1f8fdcfa73db56007d206b52891f",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.5.0"
     },
     {
