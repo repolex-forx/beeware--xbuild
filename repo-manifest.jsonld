@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/beeware/xbuild/commit/e4b51709bdda1f8fdcfa73db56007d206b52891f",
       "git:hexsha": "e4b51709bdda1f8fdcfa73db56007d206b52891f",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.5.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.5.0",
+      "repolex:parsedAt": "2026-11-07T12:20:18.701274+00:00"
     },
     {
       "@id": "https://repolex.ai/r/beeware/xbuild/commit/943bb0e523a38b486b9197a1c2b712420b420f67",
